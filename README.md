@@ -3,7 +3,7 @@
 
 # About me
 Hello, I'm Luis Mancio.
-I'm a mathematician passionate about data science and coding. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python,SQL, and cloud computing. I enjoy building efficient, scalable solutions for data analysis and automation.
+I'm a mathematician passionate about data science and coding. I’m particularly interested in machine learning applications in technology. I have analyzed datasets related to e-commerce and the banking sector to extract valuable insights for better decision-making and to build predictive models. I have experience working with Python,SQL, and cloud computing. I enjoy building efficient, scalable solutions for data analysis and automation.
 
 
 ## Socials:
