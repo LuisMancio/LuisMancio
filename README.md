@@ -2,7 +2,7 @@
 
 # Presentation
 Hello, I'm Luis Mancio.
-I'm a mathemmatician passionate about data science and coding. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python,SQL, and cloud computing. I enjoy building efficient, scalable solutions for data analysis and automation.
+I'm a mathematician passionate about data science and coding. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python,SQL, and cloud computing. I enjoy building efficient, scalable solutions for data analysis and automation.
 
 
 ## Socials:
