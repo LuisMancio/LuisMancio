@@ -1,5 +1,5 @@
 
-![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5zc2lnMDVhODEwYWFjbTVlejl1aXFzZHNjbHNwbXVuNWkyMHltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qtNGa95cbq29EGi3ib/giphy.gif)
+![Demo](https://media.giphy.com/media/qtNGa95cbq29EGi3ib/giphy.gif)
 # Presentation
 Hello, I'm Luis Mancio.
 I'm a scientist passionate about data science, software development and design. With a strong background in image and data processing. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python, C++, and cloud computing, and I enjoy building efficient, scalable solutions for data analysis and automation.
