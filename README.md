@@ -1,5 +1,5 @@
+![banner](https://github.com/user-attachments/assets/f705e2ae-78bd-4204-96d2-7a38681576f3)
 
-![Demo](perfectloop.gif)
 # Presentation
 Hello, I'm Luis Mancio.
 I'm a scientist passionate about data science, software development and design. With a strong background in image and data processing. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python, C++, and cloud computing, and I enjoy building efficient, scalable solutions for data analysis and automation.
