@@ -2,12 +2,13 @@
 
 # Presentation
 Hello, I'm Luis Mancio.
-I'm a scientist passionate about data science, software development and design. With a strong background in image and data processing. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python, C++, and cloud computing, and I enjoy building efficient, scalable solutions for data analysis and automation.
+I'm a mathemmatician passionate about data science and coding. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python,SQL, and cloud computing. I enjoy building efficient, scalable solutions for data analysis and automation.
 
 
 ## Socials:
 🌐 Webstite:https://luismancio.github.io/aboutme/<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-mancio-07035b236/)
+✉️ luismancio.ds@gmail.com
 
 
 
