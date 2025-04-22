@@ -1,7 +1,7 @@
 
 ![banner(2)](https://github.com/user-attachments/assets/a5eadc8e-dee4-4654-bb14-b50c8df7d8d7)
 
-# Presentation
+# About me
 Hello, I'm Luis Mancio.
 I'm a mathematician passionate about data science and coding. I’m particularly interested in machine learning applications in technology, leveraging data-driven solutions to solve complex problems. I have experience working with Python,SQL, and cloud computing. I enjoy building efficient, scalable solutions for data analysis and automation.
 
